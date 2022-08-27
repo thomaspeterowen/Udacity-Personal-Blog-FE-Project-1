@@ -1,0 +1,50 @@
+.tile-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  border: 10px;
+}
+
+.tile {
+  width: 350px;
+  height: 231px;
+  border: 1px solid rgb(0, 0, 163);
+  margin: 15px;
+}
+
+.tile-standard {
+  padding: 0.01em 16px;
+  background-color: #2196f3;
+  color: white;
+  height: 55px;
+}
+
+.tile-footer {
+  font-size: 8px;
+  height: 40px;
+}
+
+.tile-text-content {
+  margin: 10px;
+  height: 110px;
+}
+
+.blog-image {
+  width: 250px;
+  float: right;
+}
+
+.tile-blog-image {
+  width: 60px;
+  float: right;
+}
+
+.blog-tile-footer {
+  font-size: 15px;
+  padding: 0.01em 16px;
+  background-color: #2196f3;
+  color: white;
+  height: 120px;
+}

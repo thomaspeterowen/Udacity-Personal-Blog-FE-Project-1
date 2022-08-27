@@ -1,0 +1,13 @@
+figure {
+  padding: 5px;
+  margin: auto;
+  float: right;
+}
+
+figcaption {
+  border: 2px #cccccc solid;
+  background-color: #04aa6d;
+  color: black;
+  font-style: italic;
+  text-align: auto;
+}
