@@ -127,7 +127,7 @@ body {
   padding: 10px;
 }
 
-@media (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   #container {
     display: grid;
     width: 100%;
